@@ -24,4 +24,4 @@ This project helped me understand how data pipelines work in real scenarios, esp
 
 #OUTPUT
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0856bf8c-09df-49be-acab-53733b4ca379" />
+
