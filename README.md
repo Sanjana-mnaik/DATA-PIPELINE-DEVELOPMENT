@@ -21,3 +21,7 @@ The dataset used was a sample/mock CSV file, created to replicate real-world dat
 
 This project helped me understand how data pipelines work in real scenarios, especially in tasks related to data preprocessing, ETL (Extract, Transform, Load), and workflow automation. These pipelines are widely used in industries like healthcare, finance, marketing, and retail where large-scale data cleaning and preparation are essential before analysis or modeling.
 
+
+#OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0856bf8c-09df-49be-acab-53733b4ca379" />
